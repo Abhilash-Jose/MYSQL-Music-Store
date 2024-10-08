@@ -7,4 +7,4 @@ In this analysis, I have addressed 11 questions, ranging from basic to advanced 
 https://abhilashjose.com/music-store-analysis-using-sql/
 
 
- Music Store Analysis Project Answers: [open file](https://github.com/Abhilash-Jose/MYSQL-Music-Store-Analysis/blob/main/Music%20Store%20Latest%20Answer.sql)
+### Music Store Analysis Project Answers: [open file](https://github.com/Abhilash-Jose/MYSQL-Music-Store-Analysis/blob/main/Music%20Store%20Latest%20Answer.sql)
